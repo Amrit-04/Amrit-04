@@ -1,6 +1,6 @@
 <h1 align="center">Amritesh Yadav</h1>
 <p align="center">
-AI Systems • Backend Engineering • Real-Time Infrastructure
+AI/ML Systems • Backend Engineering • Real-Time Infrastructure
 </p>
 
 <p align="center">
