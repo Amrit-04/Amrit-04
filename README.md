@@ -1,99 +1,40 @@
-<h1 align="center">Amritesh Yadav</h1>
-<p align="center">
-AI/ML Systems • Backend Engineering • Real-Time Infrastructure
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amriteshkumar-yadav-214594250/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/amritesh._.21/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:amriteshyadav2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+ <div align="center">
+  <h1>Amritesh Yadav</h1>
+  <p>AI/ML Systems · Backend Infrastructure · Developer Tooling</p>
+  <p>
+    <a href="https://www.linkedin.com/in/amriteshkumar-yadav-214594250/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:amriteshyadav2004@gmail.com">
+      <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🚀 About Me
+## About
 
-I build scalable systems across the stack — from machine learning models to production backend infrastructure.
+I work where AI meets systems engineering: making LLM applications observable, moving features through reliable pipelines, and experimenting with graph-based query optimization and real-time vision.
 
-My work spans:
+## Selected Work
 
-- Graph Neural Networks & optimization systems  
-- Computer Vision & Edge Deployment  
-- Backend APIs & distributed services  
-- DevOps automation & CI/CD pipelines  
-- Real-time data systems  
+- **[LLM Reliability Control Plane](https://github.com/Amrit-04/llm-reliability-control-plane)**: Local-first observability for LLM and RAG applications, with durable telemetry ingestion and trace analytics.
+- **[Fault-Tolerant ML Feature Pipeline](https://github.com/Amrit-04/Fault-Tolerant-ML-Telementry-Feature-Streaming-Pipeline)**: Event-driven feature streaming with Kafka, Redis, PostgreSQL, and Prometheus/Grafana monitoring.
+- **[Neural Query Optimizer](https://github.com/Amrit-04/neural-query-optimizer)**: An experimental GNN-based model for estimating query-plan runtimes and ranking alternative plans.
+- **[Real-Time Safety Vision](https://github.com/Amrit-04/intrusion-inference-script)**: YOLO-based PPE and restricted-zone detection over camera streams.
+- **[Fly-Magotchi](https://github.com/Amrit-04/Fly_pet)**: A desktop fly whose behaviour emerges from a simplified, biologically inspired neural circuit.
 
-I focus on clean architecture, performance, and production readiness.
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,bash" />
-</p>
-
-### 🧠 Machine Learning & AI
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
-### 🌐 Backend & APIs
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
-</p>
-
-### 🗄 Databases
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
-
-### ⚙️ DevOps & Infrastructure
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ansible,githubactions" />
-</p>
-
-### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
----
-
-## 🚧 Currently Building
-
-• Learned Database Query Optimizer (GNN + RL)  
-• Real-time Computer Vision Systems on Edge Devices  
-• Multimodal AI Assistant with Retrieval & Tool Use  
-• Scalable FastAPI Microservices  
-
----
-
-## 📊 GitHub Stats
+## Tools
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amrit-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amrit-04&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,pytorch,opencv,fastapi,postgres,redis,docker,linux&perline=10" alt="Python, C++, TypeScript, PyTorch, OpenCV, FastAPI, PostgreSQL, Redis, Docker, and Linux" />
 </p>
 
----
-
-## 🧠 Engineering Principles
-
-- Build → Measure → Optimize  
-- Research depth + Production discipline  
-- Automate everything possible  
-- If it’s not reproducible, it doesn’t count  
-
----
+## GitHub Stats
 
 <p align="center">
-  <i>Designing intelligent systems that operate in the real world.</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amrit-04&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
 </p>
+
+<p align="center"><i>Building systems that are useful, observable, and reliable.</i></p>
