@@ -28,7 +28,7 @@ I work where AI meets systems engineering: making LLM applications observable, m
 ## Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,pytorch,opencv,fastapi,postgres,redis,docker,linux&perline=10" alt="Python, C++, TypeScript, PyTorch, OpenCV, FastAPI, PostgreSQL, Redis, Docker, and Linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,pytorch,opencv,fastapi,postgres,redis,docker,linux&perline=10" alt="Python, C++, Rust, Go, TypeScript, PyTorch, OpenCV, FastAPI, PostgreSQL, Redis, Docker, and Linux" />
 </p>
 
 ## GitHub Stats
