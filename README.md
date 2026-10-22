@@ -29,8 +29,8 @@ I work where AI meets systems engineering: making LLM applications observable, m
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,cpp,rust,go,scala,tla,ts,pytorch,opencv,fastapi,postgres,redis,docker,linux&perline=7"
-    alt="Python, C++, Rust, Go, Scala, TLA+, TypeScript, PyTorch, OpenCV, FastAPI, PostgreSQL, Redis, Docker, and Linux"
+    src="https://skillicons.dev/icons?i=python,cpp,rust,go,scala,ts,pytorch,opencv,fastapi,postgres,redis,docker,linux&perline=7"
+    alt="Python, C++, Rust, Go, Scala, TypeScript, PyTorch, OpenCV, FastAPI, PostgreSQL, Redis, Docker, and Linux"
   />
 </p>
 
