@@ -22,7 +22,7 @@ I work where AI meets systems engineering: making LLM applications observable, m
 - **[LLM Reliability Control Plane](https://github.com/Amrit-04/llm-reliability-control-plane)**: Local-first observability for LLM and RAG applications, with durable telemetry ingestion and trace analytics.
 - **[Fault-Tolerant ML Feature Pipeline](https://github.com/Amrit-04/Fault-Tolerant-ML-Telementry-Feature-Streaming-Pipeline)**: Event-driven feature streaming with Kafka, Redis, PostgreSQL, and Prometheus/Grafana monitoring.
 - **[Neural Query Optimizer](https://github.com/Amrit-04/neural-query-optimizer)**: An experimental GNN-based model for estimating query-plan runtimes and ranking alternative plans.
-- **[Real-Time Safety Vision](https://github.com/Amrit-04/intrusion-inference-script)**: YOLO-based PPE and restricted-zone detection over camera streams.
+- **[Real-Time Safety Vision](https://github.com/Amrit-04/workplace-safety-vision)**: YOLO-based PPE and restricted-zone detection over camera streams.
 - **[Fly-Magotchi](https://github.com/Amrit-04/Fly_pet)**: A desktop fly whose behaviour emerges from a simplified, biologically inspired neural circuit.
 
 ## Tools
