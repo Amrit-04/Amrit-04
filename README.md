@@ -1,6 +1,6 @@
  <div align="center">
   <h1>Amritesh Yadav</h1>
-  <p>AI/ML Systems · Backend Infrastructure · Developer Tooling</p>
+  <p>AI/ML Systems &bull; Backend Infrastructure &bull; Developer Tooling</p>
   <p>
     <a href="https://www.linkedin.com/in/amriteshkumar-yadav-214594250/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -20,7 +20,7 @@ I work where AI meets systems engineering: making LLM applications observable, m
 ## Selected Work
 
 - **[LLM Reliability Control Plane](https://github.com/Amrit-04/llm-reliability-control-plane)**: Local-first observability for LLM and RAG applications, with durable telemetry ingestion and trace analytics.
-- **[Fault-Tolerant ML Feature Pipeline](https://github.com/Amrit-04/Fault-Tolerant-ML-Telementry-Feature-Streaming-Pipeline)**: Event-driven feature streaming with Kafka, Redis, PostgreSQL, and Prometheus/Grafana monitoring.
+- **[Fault-Tolerant ML Feature Pipeline](https://github.com/Amrit-04/Fault-Tolerant-ML-Telemetry-Feature-Streaming-Pipeline)**: Event-driven feature streaming with Kafka, Redis, PostgreSQL, and Prometheus/Grafana monitoring.
 - **[Neural Query Optimizer](https://github.com/Amrit-04/neural-query-optimizer)**: An experimental GNN-based model for estimating query-plan runtimes and ranking alternative plans.
 - **[Real-Time Safety Vision](https://github.com/Amrit-04/workplace-safety-vision)**: YOLO-based PPE and restricted-zone detection over camera streams.
 - **[Fly-Magotchi](https://github.com/Amrit-04/Fly_pet)**: A desktop fly whose behaviour emerges from a simplified, biologically inspired neural circuit.
