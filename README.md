@@ -37,7 +37,7 @@ I work where AI meets systems engineering: making LLM applications observable, m
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amrit-04&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Amrit-04&show_icons=true&hide_border=true&theme=transparent&cache_seconds=86400" alt="GitHub statistics" />
 </p>
 
 <p align="center"><i>Building systems that are useful, observable, and reliable.</i></p>
