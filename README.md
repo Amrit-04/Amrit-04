@@ -1,24 +1,26 @@
  <p align="center">
   <a href="https://github.com/Amrit-04">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0B0F19,55:1F2335,100:7AA2F7&height=220&section=header&text=Amritesh%20Yadav&fontSize=76&fontColor=C0CAF5&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Systems%20%C2%B7%20Backend%20Infrastructure%20%C2%B7%20Developer%20Tooling&descSize=19&descAlignY=64" width="100%" alt="Amritesh Yadav" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0B0F19,55:1F2335,100:7AA2F7&height=220&section=header&text=Amriteshkumar%20Yadav&fontSize=68&fontColor=C0CAF5&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Systems%20%C2%B7%20Backend%20Infrastructure%20%C2%B7%20Developer%20Tooling&descSize=19&descAlignY=64" width="100%" alt="Amriteshkumar Yadav" />
   </a>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=2600&pause=1500&color=BB9AF7&background=0B0F19&center=true&vCenter=true&width=900&height=56&lines=%3E+building+observable+AI+systems.;%3E+engineering+reliable+data+pipelines.;%3E+exploring+graph+ML+and+computer+vision." width="100%" alt="Building observable AI systems" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amriteshkumar-yadav-214594250/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B2D" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B2D" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:amriteshyadav2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B2D" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B2D" alt="Send an email" />
   </a>
   <a href="https://github.com/Amrit-04">
-    <img src="https://img.shields.io/badge/GitHub-Profile-C0CAF5?style=for-the-badge&logo=github&logoColor=white&labelColor=161B2D" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-C0CAF5?style=for-the-badge&logo=github&logoColor=white&labelColor=161B2D" alt="GitHub profile" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IEEE_RMKMATE-2026_publication-7AA2F7?style=for-the-badge&labelColor=161B2D" alt="IEEE RMKMATE 2026 publication" />
+  <a href="https://ieeexplore.ieee.org/document/11518869">
+    <img src="https://img.shields.io/badge/IEEE_RMKMATE-2026_publication-7AA2F7?style=for-the-badge&logo=ieee&logoColor=white&labelColor=161B2D" alt="Read my IEEE RMKMATE 2026 publication" />
+  </a>
   <img src="https://img.shields.io/badge/7%2C891.5_peak_consume_EPS-measured-BB9AF7?style=for-the-badge&labelColor=161B2D" alt="7,891.5 peak consume events per second" />
   <img src="https://img.shields.io/badge/900%2C469_valid_events-0_loss%2C_0_duplicates-7DCFFF?style=for-the-badge&labelColor=161B2D" alt="900,469 valid events with zero loss or duplicates" />
   <img src="https://img.shields.io/badge/0.439ms_p95-GNN_end--to--end_inference-C0CAF5?style=for-the-badge&labelColor=161B2D" alt="0.439 ms GNN end-to-end inference p95" />
@@ -101,7 +103,7 @@ I care about the engineering that makes intelligent applications dependable: dur
       <sub><b>Real-time computer vision / IEEE publication</b></sub>
       <p>A real-time vision framework for PPE compliance and restricted-zone intrusion detection. Features dual-model inference, worker tracking, interactive geofencing, incident auditing, and a live monitoring dashboard.</p>
       <p><code>Python</code> <code>YOLO11</code> <code>OpenCV</code> <code>Flask</code></p>
-      <p><a href="https://ieeexplore.ieee.org/document/11518869">IEEE RMKMATE 2026 publication ↗</a></p>
+      <p><a href="https://ieeexplore.ieee.org/document/11518869">Read IEEE RMKMATE 2026 paper ↗</a></p>
       <a href="https://github.com/Amrit-04/workplace-safety-vision">
         <img src="https://img.shields.io/badge/Explore_Project-7AA2F7?style=for-the-badge&labelColor=161B2D" alt="Explore project" />
       </a>
@@ -156,12 +158,12 @@ I care about the engineering that makes intelligent applications dependable: dur
 <p align="center">
   <a href="https://github.com/Amrit-04">
     <img height="165"
-      src="https://github-stats-extended.vercel.app/api?username=Amrit-04&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0B0F19&title_color=7AA2F7&text_color=C0CAF5&icon_color=BB9AF7"
+      src="https://github-readme-stats.vercel.app/api?username=Amrit-04&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0B0F19&title_color=7AA2F7&text_color=C0CAF5&icon_color=BB9AF7"
       alt="GitHub statistics" />
   </a>
   <a href="https://github.com/Amrit-04">
     <img height="165"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Amrit-04&layout=compact&hide_border=true&langs_count=8&bg_color=0B0F19&title_color=7AA2F7&text_color=C0CAF5"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrit-04&layout=compact&hide_border=true&langs_count=8&bg_color=0B0F19&title_color=7AA2F7&text_color=C0CAF5"
       alt="Most used languages" />
   </a>
 </p>
