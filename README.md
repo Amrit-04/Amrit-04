@@ -20,8 +20,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/IEEE_RMKMATE-2026_publication-7AA2F7?style=for-the-badge&labelColor=161B2D" alt="IEEE RMKMATE 2026 publication" />
   <img src="https://img.shields.io/badge/7%2C891.5_peak_consume_EPS-measured-BB9AF7?style=for-the-badge&labelColor=161B2D" alt="7,891.5 peak consume events per second" />
-  <img src="https://img.shields.io/badge/900%2C469_valid_events-0_loss%2C_0_duplicates-7DCFFF?style=for-the-badge&labelColor=161B2D" alt="900,469 valid events reconciled with zero loss or duplicates" />
-  <img src="https://img.shields.io/badge/0.439ms_p95-GNN_end--to--end_inference-C0CAF5?style=for-the-badge&labelColor=161B2D" alt="0.439 milliseconds end-to-end GNN inference p95" />
+  <img src="https://img.shields.io/badge/900%2C469_valid_events-0_loss%2C_0_duplicates-7DCFFF?style=for-the-badge&labelColor=161B2D" alt="900,469 valid events with zero loss or duplicates" />
+  <img src="https://img.shields.io/badge/0.439ms_p95-GNN_end--to--end_inference-C0CAF5?style=for-the-badge&labelColor=161B2D" alt="0.439 ms GNN end-to-end inference p95" />
 </p>
 
 <p align="center">
@@ -49,6 +49,18 @@ I care about the engineering that makes intelligent applications dependable: dur
 - Graph machine learning and neural query optimization.
 - Real-time computer vision and edge inference.
 - Computational neuroscience and biologically inspired neural circuits.
+
+<details>
+<summary><b>🔍 What I find interesting</b></summary>
+<br />
+
+- Building infrastructure around LLMs instead of treating models as isolated black boxes.
+- Making data pipelines resilient through durable ingestion, retries, validation, and observability.
+- Applying graph learning to problems traditionally solved with hand-engineered heuristics.
+- Exploring biological neural circuits and their computational behaviour.
+- Building developer tools that make complex systems easier to understand.
+
+</details>
 
 ## 🚀 selected projects
 
@@ -142,8 +154,16 @@ I care about the engineering that makes intelligent applications dependable: dur
 ## 📈 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Amrit-04&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0B0F19&title_color=7AA2F7&text_color=C0CAF5&icon_color=BB9AF7" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Amrit-04&layout=compact&hide_border=true&langs_count=8&bg_color=0B0F19&title_color=7AA2F7&text_color=C0CAF5" alt="Most used languages" />
+  <a href="https://github.com/Amrit-04">
+    <img height="165"
+      src="https://github-stats-extended.vercel.app/api?username=Amrit-04&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0B0F19&title_color=7AA2F7&text_color=C0CAF5&icon_color=BB9AF7"
+      alt="GitHub statistics" />
+  </a>
+  <a href="https://github.com/Amrit-04">
+    <img height="165"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Amrit-04&layout=compact&hide_border=true&langs_count=8&bg_color=0B0F19&title_color=7AA2F7&text_color=C0CAF5"
+      alt="Most used languages" />
+  </a>
 </p>
 
 ---
@@ -156,7 +176,7 @@ I care about the engineering that makes intelligent applications dependable: dur
 
 <p align="center">
   <a href="mailto:amriteshyadav2004@gmail.com">
-    <img src="https://img.shields.io/badge/Let's_Talk-BB9AF7?style=for-the-badge&logo=gmail&logoColor=0B0F19&labelColor=161B2D" alt="Let's talk" />
+    <img src="https://img.shields.io/badge/Let's_Talk-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B2D" alt="Let's talk" />
   </a>
 </p>
 
